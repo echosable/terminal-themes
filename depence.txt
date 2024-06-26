@@ -1,0 +1,10 @@
+bash-completion
+readline
+libreadline.so=8-64
+glibc
+ncurses
+zsh-autosuggestions
+zsh-syntax-highlighting
+pcre2 
+libcap
+gdbm
