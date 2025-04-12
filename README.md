@@ -29,7 +29,7 @@ cat  ~/.zshrc > ~/zshrc.backup
 ## Installation
 1. **clone the repository**
 ```bash
-==git clone https://github.com/XplDan/template-bashrc-conf.git==
+==git clone https://github.com/echosable/template-bashrc-conf.git==
 ```
 2. **Replace the file**
 ```bash
